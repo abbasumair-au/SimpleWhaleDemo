@@ -29,5 +29,5 @@ jobs:
           context: ./ 
           file: ./Dockerfile
           push: true
-          tags: 321umairabbas@gmail.com/simplewhale:latest
+          tags: umairabbas321/simplewhale:latest
       
